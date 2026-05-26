@@ -1,53 +1,234 @@
 [
   {
     "depth1": "아이오테크 SEMS SL 개발",
-    "depth2": "FW 개발",
-    "depth3": "LCU보드 데모 준비",
+    "depth2": "요구사항/범위",
+    "depth3": "통합진행문서 정리",
     "status": "미진행",
     "start": "2026-05-26",
-    "end": "2026-06-05",
-    "next_action": "LCU보드 데모에 필요한 기능과 현재 자료 위치 확인",
-    "notion": "https://www.notion.so/36c5c9ca0fd3811db6facdf61c7f349e"
+    "end": "2026-05-28",
+    "next_action": "01_요구사항/01_통합진행문서_SmartLoad.md 기준으로 현재 목표와 범위 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd38112b54fd55eae428b11",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "요구사항/범위",
+    "depth3": "기능정의 및 구현범위 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-05-29",
+    "next_action": "02_기능정의_및_구현범위.md 기준으로 구현 범위와 제외 범위 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3814caea1c55aa24a337f",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "요구사항/범위",
+    "depth3": "지선차단기 다이어그램 정리",
+    "status": "미진행",
+    "start": "2026-05-27",
+    "end": "2026-05-29",
+    "next_action": "03_지선차단기_다이어그램_정리.md를 기준으로 구성요소와 연결 흐름 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3811e95e8edac44992d4d",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "칩선정 및 구매성 검토",
+    "status": "미진행",
+    "start": "2026-05-29",
+    "end": "2026-06-03",
+    "next_action": "01_칩선정_및_구매성.md와 ATM90E26 관련 문서 기준으로 선정 근거 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd38177955cc7732bf59a37",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "HW팀 전달 기능/핀 기준",
+    "status": "미진행",
+    "start": "2026-06-03",
+    "end": "2026-06-07",
+    "next_action": "HW팀 전달용 기능/핀 기준 최신본 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3810886a4f106f97ab6fc",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "ATM90E26 기능/핀 정리",
+    "status": "미진행",
+    "start": "2026-06-04",
+    "end": "2026-06-10",
+    "next_action": "ATM90E26 기능검토/핀사용정리 문서를 기준으로 FW-HW 연결 기준 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd38198ae55fe255625ccb2",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "보조저전력 출력 분리 회로 정리",
+    "status": "미진행",
+    "start": "2026-06-08",
+    "end": "2026-06-14",
+    "next_action": "보조저전력 출력 분리 블록도/개념회로도/준회로도 자료 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3811d85f2d310d095c80f",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
   },
   {
     "depth1": "아이오테크 SEMS SL 개발",
     "depth2": "HW 개발",
     "depth3": "회로도",
     "status": "미진행",
-    "start": "2026-05-26",
-    "end": "2026-05-29",
+    "start": "2026-06-10",
+    "end": "2026-06-17",
     "next_action": "최신 회로도 파일 위치 확인",
-    "notion": "https://www.notion.so/36c5c9ca0fd381d985f1ce78fe292504"
+    "notion": "https://www.notion.so/36c5c9ca0fd381d985f1ce78fe292504",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
   },
   {
     "depth1": "아이오테크 SEMS SL 개발",
     "depth2": "HW 개발",
     "depth3": "PCB",
     "status": "미진행",
-    "start": "2026-06-01",
-    "end": "2026-06-12",
+    "start": "2026-06-15",
+    "end": "2026-06-24",
     "next_action": "PCB 관련 자료와 진행 상태 확인",
-    "notion": "https://www.notion.so/36c5c9ca0fd381e6b45df9803e9e36c8"
+    "notion": "https://www.notion.so/36c5c9ca0fd381e6b45df9803e9e36c8",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
   },
   {
     "depth1": "아이오테크 SEMS SL 개발",
     "depth2": "HW 개발",
     "depth3": "아트웍",
     "status": "미진행",
-    "start": "2026-06-08",
-    "end": "2026-06-19",
+    "start": "2026-06-22",
+    "end": "2026-07-03",
     "next_action": "아트웍 진행 파일과 수정사항 확인",
-    "notion": "https://www.notion.so/36c5c9ca0fd381b09e0cc1f1a7485102"
+    "notion": "https://www.notion.so/36c5c9ca0fd381b09e0cc1f1a7485102",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "FW 개발",
+    "depth3": "펌웨어 개발 기준 정리",
+    "status": "미진행",
+    "start": "2026-05-29",
+    "end": "2026-06-03",
+    "next_action": "01_펌웨어개발기준.md와 smartload_fw_current README 기준으로 개발 기준 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd38194b445fe2abe16412a",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "FW 개발",
+    "depth3": "LCU보드 데모 준비",
+    "status": "미진행",
+    "start": "2026-06-03",
+    "end": "2026-06-14",
+    "next_action": "LCU보드 데모에 필요한 기능과 현재 자료 위치 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd3811db6facdf61c7f349e",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "FW 개발",
+    "depth3": "F107 LCU 타깃 Bring-up",
+    "status": "미진행",
+    "start": "2026-06-10",
+    "end": "2026-06-21",
+    "next_action": "target_f107의 bring-up 체크리스트와 소스 구조 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd381d8bb54eca9fb78aec5",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "FW 개발",
+    "depth3": "PC 데모/프로토콜 도구 정리",
+    "status": "미진행",
+    "start": "2026-06-10",
+    "end": "2026-06-18",
+    "next_action": "pc_demo 폴더의 GUI/CLI/시뮬레이터 도구 역할 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd381a69582c1a7e05e0832",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "FW 개발",
+    "depth3": "ATM90E26 드라이버/계측 연동",
+    "status": "미진행",
+    "start": "2026-06-17",
+    "end": "2026-06-28",
+    "next_action": "atm90e26 관련 src/inc 파일과 transport 구현 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd38104b8eff6ba9602338f",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "통신규격",
+    "depth3": "DCU 통신프로토콜 명세서 정리",
+    "status": "미진행",
+    "start": "2026-06-03",
+    "end": "2026-06-10",
+    "next_action": "03_지선차단기_DCU_통신프로토콜_명세서.md 기준으로 최종 프로토콜 항목 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd38119bcdeeeed9958d30e",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "통신규격",
+    "depth3": "예시패킷/데이터스케일 정리",
+    "status": "미진행",
+    "start": "2026-06-10",
+    "end": "2026-06-16",
+    "next_action": "예시패킷과 데이터스케일 추천표를 기준으로 구현/테스트 기준 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3819ebf3af9e407a26eb3",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
   },
   {
     "depth1": "아이오테크 SEMS SL 개발",
     "depth2": "통합/데모",
     "depth3": "FW-HW 통합 테스트",
     "status": "미진행",
-    "start": "2026-06-15",
-    "end": "2026-06-26",
+    "start": "2026-06-24",
+    "end": "2026-07-05",
     "next_action": "데모 성공 기준과 테스트 항목 정리",
-    "notion": "https://www.notion.so/36c5c9ca0fd381bcaddfe6762f1a4c84"
+    "notion": "https://www.notion.so/36c5c9ca0fd381bcaddfe6762f1a4c84",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "회의/보고",
+    "depth3": "최신 회의메모 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-05-28",
+    "next_action": "07_회의메모/01_최신회의메모.md 기준으로 결정사항과 후속작업 분리",
+    "notion": "https://www.notion.so/36c5c9ca0fd38190a857eba73f8f3ecf",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "회의/보고",
+    "depth3": "최신 보고자료 정리",
+    "status": "미진행",
+    "start": "2026-05-29",
+    "end": "2026-06-05",
+    "next_action": "09_보고서/01_최신보고자료.md와 주요 PPT/DOCX 산출물 기준으로 최신본 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3815ebc85fd0b92e71d68",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "일정/WBS",
+    "depth3": "진행률 기준 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-05-29",
+    "next_action": "06_일정WBS의 진행률 기준과 전체업무 비중 문서를 현재 WBS에 반영",
+    "notion": "https://www.notion.so/36c5c9ca0fd381679aefc6301bfda0bc",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
   },
   {
     "depth1": "아이오테크 SEMS SL 개발",
@@ -57,7 +238,8 @@
     "start": "2026-05-26",
     "end": "2026-06-30",
     "next_action": "들어오는 요청은 여기 먼저 적고 나중에 제자리로 이동",
-    "notion": "https://www.notion.so/36c5c9ca0fd3817fba1adbaf6b8880a1"
+    "notion": "https://www.notion.so/36c5c9ca0fd3817fba1adbaf6b8880a1",
+    "repo": "https://github.com/sehuniotech-ctrl/Iotech_sems"
   },
   {
     "depth1": "위웨이크 앱 개발",
@@ -67,7 +249,8 @@
     "start": "2026-05-26",
     "end": "2026-06-12",
     "next_action": "운동 앱의 현재 기능과 수정사항 정리",
-    "notion": "https://www.notion.so/36c5c9ca0fd3812ba480d43f622e10a5"
+    "notion": "https://www.notion.so/36c5c9ca0fd3812ba480d43f622e10a5",
+    "repo": ""
   },
   {
     "depth1": "위웨이크 앱 개발",
@@ -77,7 +260,8 @@
     "start": "2026-05-26",
     "end": "2026-06-12",
     "next_action": "정부정책 앱의 현재 기능과 수정사항 정리",
-    "notion": "https://www.notion.so/36c5c9ca0fd381b28a3ecd5ca9833abf"
+    "notion": "https://www.notion.so/36c5c9ca0fd381b28a3ecd5ca9833abf",
+    "repo": ""
   },
   {
     "depth1": "개인 관리",
@@ -87,7 +271,8 @@
     "start": "2026-05-26",
     "end": "2026-06-02",
     "next_action": "생각나는 일을 먼저 적기",
-    "notion": "https://www.notion.so/36c5c9ca0fd381cd9214e2e65c659fee"
+    "notion": "https://www.notion.so/36c5c9ca0fd381cd9214e2e65c659fee",
+    "repo": ""
   },
   {
     "depth1": "개인 관리",
@@ -97,6 +282,7 @@
     "start": "2026-05-26",
     "end": "2026-06-02",
     "next_action": "생각나는 일을 먼저 적기",
-    "notion": "https://www.notion.so/36c5c9ca0fd38189b6b4dbe582dc9937"
+    "notion": "https://www.notion.so/36c5c9ca0fd38189b6b4dbe582dc9937",
+    "repo": ""
   }
 ]

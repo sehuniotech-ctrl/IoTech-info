@@ -6,18 +6,24 @@
 
 GitHub 저장소 하나를 만듭니다.
 
-예시 저장소명:
+현재 WBS 관리 저장소:
 
 ```text
-wbs-work-management
+https://github.com/sehuniotech-ctrl/IoTech-info
+```
+
+SEMS 작업 참고 저장소:
+
+```text
+https://github.com/sehuniotech-ctrl/Iotech_sems
 ```
 
 저장소 안에는 아래처럼 둡니다.
 
 ```text
-wbs-work-management/
+IoTech-info/
   README.md
-  PROMPT_FOR_OTHER_PC.md
+  PROMPT_FOR_GITHUB_WBS_SYNC.md
   data/
     wbs_items.json
   scripts/
@@ -55,7 +61,7 @@ data/wbs_items.json
 나중에 WBS 항목을 코드/자동화로 관리하고 싶을 때 원본 데이터 역할을 합니다.
 
 ```text
-PROMPT_FOR_OTHER_PC.md
+PROMPT_FOR_GITHUB_WBS_SYNC.md
 ```
 
 다른 컴퓨터의 Codex/ChatGPT에게 줄 작업 지시문입니다.
@@ -70,7 +76,7 @@ PROMPT_FOR_OTHER_PC.md
 4. GitHub push
 
 ```powershell
-git add files/WBS_업무정리_순수WBS.xlsx scripts/build_pure_wbs_workbook.py data/wbs_items.json PROMPT_FOR_OTHER_PC.md README.md
+git add files/WBS_업무정리_순수WBS.xlsx scripts/build_pure_wbs_workbook.py data/wbs_items.json PROMPT_FOR_GITHUB_WBS_SYNC.md README.md
 git commit -m "Update WBS workbook"
 git push
 ```

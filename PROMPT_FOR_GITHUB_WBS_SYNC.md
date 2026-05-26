@@ -4,6 +4,11 @@
 
 나는 GitHub 저장소를 원본 서버로 두고 WBS 업무관리 파일을 관리하고 있다.
 
+원본 저장소:
+
+- WBS 관리 저장소: https://github.com/sehuniotech-ctrl/IoTech-info
+- SEMS 작업 참고 저장소: https://github.com/sehuniotech-ctrl/Iotech_sems
+
 목표:
 
 1. GitHub 저장소의 `files/WBS_업무정리_순수WBS.xlsx`가 최신 원본이다.
