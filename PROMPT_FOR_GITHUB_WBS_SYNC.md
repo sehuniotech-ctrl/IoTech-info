@@ -12,6 +12,7 @@
 목표:
 
 1. GitHub 저장소의 `files/WBS_업무정리_순수WBS.xlsx`가 최신 원본이다.
+   - 한글 파일명이 열리지 않거나 다운로드가 꼬이면 동일 사본인 `files/WBS_latest.xlsx`를 사용한다.
 2. 작업 전에는 반드시 `git pull`로 최신 상태를 받는다.
 3. 작업 후에는 `git add`, `git commit`, `git push`로 서버에 반영한다.
 4. Excel 파일은 병합 충돌이 어려우므로, 수정 전후로 현재 branch와 변경 파일을 확인한다.

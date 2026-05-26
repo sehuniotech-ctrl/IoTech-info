@@ -29,8 +29,10 @@ IoTech-info/
   scripts/
     build_pure_wbs_workbook.py
   files/
+    WBS_latest.xlsx
     WBS_업무정리_순수WBS.xlsx
   archive/
+    2026-05-26_WBS_latest.xlsx
     2026-05-26_WBS_업무정리_순수WBS.xlsx
 ```
 
@@ -41,6 +43,12 @@ files/WBS_업무정리_순수WBS.xlsx
 ```
 
 현재 최신 WBS 파일입니다. 다른 PC에서는 이 파일을 내려받아 열면 됩니다.
+
+```text
+files/WBS_latest.xlsx
+```
+
+한글 파일명 다운로드 문제가 있을 때 쓰는 동일한 최신 WBS 파일입니다.
 
 ```text
 archive/
