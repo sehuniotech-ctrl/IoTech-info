@@ -1,0 +1,102 @@
+[
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "FW 개발",
+    "depth3": "LCU보드 데모 준비",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-06-05",
+    "next_action": "LCU보드 데모에 필요한 기능과 현재 자료 위치 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd3811db6facdf61c7f349e"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "회로도",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-05-29",
+    "next_action": "최신 회로도 파일 위치 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd381d985f1ce78fe292504"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "PCB",
+    "status": "미진행",
+    "start": "2026-06-01",
+    "end": "2026-06-12",
+    "next_action": "PCB 관련 자료와 진행 상태 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd381e6b45df9803e9e36c8"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "HW 개발",
+    "depth3": "아트웍",
+    "status": "미진행",
+    "start": "2026-06-08",
+    "end": "2026-06-19",
+    "next_action": "아트웍 진행 파일과 수정사항 확인",
+    "notion": "https://www.notion.so/36c5c9ca0fd381b09e0cc1f1a7485102"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "통합/데모",
+    "depth3": "FW-HW 통합 테스트",
+    "status": "미진행",
+    "start": "2026-06-15",
+    "end": "2026-06-26",
+    "next_action": "데모 성공 기준과 테스트 항목 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd381bcaddfe6762f1a4c84"
+  },
+  {
+    "depth1": "아이오테크 SEMS SL 개발",
+    "depth2": "단발 요청",
+    "depth3": "임시 요청/확인사항",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-06-30",
+    "next_action": "들어오는 요청은 여기 먼저 적고 나중에 제자리로 이동",
+    "notion": "https://www.notion.so/36c5c9ca0fd3817fba1adbaf6b8880a1"
+  },
+  {
+    "depth1": "위웨이크 앱 개발",
+    "depth2": "운동 앱",
+    "depth3": "기능/운영 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-06-12",
+    "next_action": "운동 앱의 현재 기능과 수정사항 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd3812ba480d43f622e10a5"
+  },
+  {
+    "depth1": "위웨이크 앱 개발",
+    "depth2": "정부정책 앱",
+    "depth3": "기능/운영 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-06-12",
+    "next_action": "정부정책 앱의 현재 기능과 수정사항 정리",
+    "notion": "https://www.notion.so/36c5c9ca0fd381b28a3ecd5ca9833abf"
+  },
+  {
+    "depth1": "개인 관리",
+    "depth2": "건강",
+    "depth3": "해야 할 일 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-06-02",
+    "next_action": "생각나는 일을 먼저 적기",
+    "notion": "https://www.notion.so/36c5c9ca0fd381cd9214e2e65c659fee"
+  },
+  {
+    "depth1": "개인 관리",
+    "depth2": "돈/생활",
+    "depth3": "해야 할 일 정리",
+    "status": "미진행",
+    "start": "2026-05-26",
+    "end": "2026-06-02",
+    "next_action": "생각나는 일을 먼저 적기",
+    "notion": "https://www.notion.so/36c5c9ca0fd38189b6b4dbe582dc9937"
+  }
+]
